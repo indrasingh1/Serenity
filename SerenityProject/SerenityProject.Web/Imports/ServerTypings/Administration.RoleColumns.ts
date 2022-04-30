@@ -1,0 +1,3 @@
+﻿namespace SerenityProject.Administration {
+}
+
